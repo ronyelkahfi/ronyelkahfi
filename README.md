@@ -7,7 +7,6 @@ I am interested in learning the basics about software development for good softw
 ## Employment History
 
 **Back End Developer, PT. ELEKTRONIK DISTRIBUSI OTOMATISASI TERKEMUKA (EDOT)**\
-
 April, 2022 - Present\
 The main task is to develop existing software, make adjustments on the backend so that the system can implement new features, follow sprints, fix bugs in existing applications, and analyze from the technical side of reports experienced by application users.
 
