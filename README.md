@@ -5,8 +5,12 @@ I am a web developer with six years of experience. Work with PHP development env
 I am interested in learning the basics about software development for good software quality and maintainability. Currently studying backend technologies such as golang, microservice, docker, CICD with a clean architecture concept.
 
 ## Employment History
+**Back End Developer, PT. ELEKTRONIK DISTRIBUSI OTOMATISASI TERKEMUKA (EDOT)**
+April, 2022 - Present
+The main task is to develop existing software, make adjustments on the backend so that the system can implement new features, follow sprints, fix bugs in existing applications, and analyze from the technical side of reports experienced by application users.
+
 **Web Developer, PT. Interaktif Internasional**\
-Jan, 2018 - Present\
+Jan, 2018 - April, 2022\
 Develop software for internal and for cloud services. Among them are the backend for the POS system, and the attendance data management system. It has been used by several public and private companies. My job is to create features that have been defined by the company. As much as possible I create a lightweight system for user convenience, optimize database requirements, and reusable code.
 
 **Freelance Web Programmer, Multi Kreasindo**\
@@ -14,6 +18,12 @@ Nov, 2014 - Dec, 2017\
 Creating administrative software for several health institutions such as hospitals and clinical laboratories. my job is to explore user requirements, create simple technical diagrams, implement them into code, and maintain them. Here, I make as much software as possible to suit my clients in the field.
 
 ## Project Experiences
+**EFOOD**
+Is corporate food order application used especially by Richeese Factory to handle order from their online user. Also it used by other corporate exclude nabati. 
+
+**Epayment**
+Is a Core API to handle payment and disbursement from other company product like efood, elog, eshop, etc. it was integrate with several payment gateway like **xendit**, **midtrans**, **flip**, and **xfers**.
+
 **InAct Attendance Device Management System**\
 This application is used to manage attendance data from various machines spread across various regions. 
 Used by PT. Aneka Indomakmur, PT. Pertani Persero, CV. Beauty Kasatama.and others.
