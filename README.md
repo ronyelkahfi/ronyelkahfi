@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web developer with six years of experience. Work with PHP development environment. From native, to frameworks like codeigniter and laravel. I have helped small agencies to transform from traditional administration to integrated database-based administration, and have duplicated it across multiple agencies. I've also worked for an IT company to develop and maintain their cloud services.
+I am a web developer with six years of experience. I have helped small agencies to transform from traditional administration to integrated database-based administration, and have duplicated it across multiple agencies. I've also worked for an IT company to develop and maintain their cloud services.
 
 I am interested in learning the basics about software development for good software quality and maintainability. Currently studying backend technologies such as golang, microservice, docker, CICD with a clean architecture concept.
 
